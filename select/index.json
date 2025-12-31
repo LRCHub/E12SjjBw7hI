@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "♪メリーゴーラン♪",
+  "base_artist": "Hilcrhyme",
+  "createdAt": "2025-12-31T20:13:15.598654Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "♪メリーゴーラン♪",
+      "artist": "Hilcrhyme",
+      "has_synced": false,
+      "path": "select/pl_01_♪メリーゴーラン♪_Hilcrhyme.txt"
+    }
+  ]
+}
